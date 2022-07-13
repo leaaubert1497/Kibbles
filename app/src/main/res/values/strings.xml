@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Kibbles</string>
+    <string name="title_activity_add_animal">AddAnimalActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+    <string-array name="cat_breeds">
+        <item>Maine Coon</item>
+        <item>Européen</item>
+        <item>Siamois</item>
+        <item>Birman</item>
+        <item>Chartreux</item>
+        <item>Scottish fold</item>
+        <item>British shorthair</item>
+    </string-array>
+    <string-array name="dog_breeds">
+        <item>Teckel</item>
+        <item>Leonberg</item>
+        <item>Berger Allemand</item>
+        <item>Malamut</item>
+        <item>Barzoï</item>
+        <item>Berger Australien</item>
+        <item>Chihuahua</item>
+    </string-array>
+    <string name="title_activity_tanks">TanksActivity</string>
+
+</resources>

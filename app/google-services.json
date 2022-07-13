@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "773742526176",
+    "firebase_url": "https://kibbles-2a454-default-rtdb.firebaseio.com",
+    "project_id": "kibbles-2a454",
+    "storage_bucket": "kibbles-2a454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773742526176:android:0943204aa8c5e2e5695a85",
+        "android_client_info": {
+          "package_name": "com.example.kibbles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773742526176-avppuqlpgmnb2b8l4okep1u72lppkhh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTXQFI2lkH5l2W-qHy4pWLLLmJlHgzPvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773742526176-avppuqlpgmnb2b8l4okep1u72lppkhh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
